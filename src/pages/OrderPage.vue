@@ -1,6 +1,6 @@
 <template>
-  <q-page>
-    <p>Order page</p>
+  <q-page class="fixed-center">
+    <h3>Order Page</h3>
   </q-page>
 </template>
 

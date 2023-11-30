@@ -1,6 +1,6 @@
 <template>
-  <q-page class="flex flex-center">
-    <h1>Home Page</h1>
+  <q-page class="fixed-center">
+    <h3>Home Page</h3>
   </q-page>
 </template>
 
